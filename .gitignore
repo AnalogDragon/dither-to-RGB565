@@ -11,6 +11,7 @@
 *.dylib
 *.exe
 qt.conf
+*.zip
 
 # Qt-es
 object_script.*.Release
